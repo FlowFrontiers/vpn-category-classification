@@ -1,7 +1,7 @@
-# Cross-Domain Application Category Classification of WireGuard VPN Traffic
+# Matched-View Cross-Domain Evaluation of WireGuard VPN Traffic Classification
 
-Code accompanying the paper *"Cross-Domain Application Category Classification of
-WireGuard VPN Traffic Using Early-Flow Fingerprints"* (CNSM 2026).
+Code accompanying the paper *"Matched-View Cross-Domain Evaluation of
+WireGuard VPN Traffic Classification Using Early-Flow Fingerprints"* (CNSM 2026).
 
 This repository contains the full preprocessing, training, evaluation, and
 plotting pipeline used in the paper.
