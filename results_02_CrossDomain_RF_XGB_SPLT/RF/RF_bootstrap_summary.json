@@ -1,0 +1,34 @@
+{
+  "B": 1000,
+  "n_test": 226314,
+  "results": [
+    {
+      "metric": "accuracy",
+      "mean": 0.9121,
+      "CI_lower": 0.911,
+      "CI_upper": 0.9133,
+      "std": 0.0006
+    },
+    {
+      "metric": "bal_accuracy",
+      "mean": 0.4886,
+      "CI_lower": 0.4825,
+      "CI_upper": 0.4943,
+      "std": 0.0031
+    },
+    {
+      "metric": "macro_f1",
+      "mean": 0.5047,
+      "CI_lower": 0.4982,
+      "CI_upper": 0.5108,
+      "std": 0.0032
+    },
+    {
+      "metric": "weighted_f1",
+      "mean": 0.883,
+      "CI_lower": 0.8815,
+      "CI_upper": 0.8847,
+      "std": 0.0008
+    }
+  ]
+}

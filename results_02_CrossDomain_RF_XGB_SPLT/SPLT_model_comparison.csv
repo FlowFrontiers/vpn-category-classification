@@ -1,0 +1,3 @@
+Model,Final Acc,Final Bal Acc,Final Macro F1,Final Weighted F1,Boot Macro F1,Boot F1 CI Lo,Boot F1 CI Hi
+Random Forest,0.9121,0.4885,0.5047,0.883,0.5047,0.4982,0.5108
+XGBoost,0.9473,0.6748,0.7257,0.9411,0.7257,0.7193,0.7316

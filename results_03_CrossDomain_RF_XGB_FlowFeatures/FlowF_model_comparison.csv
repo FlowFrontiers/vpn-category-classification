@@ -1,0 +1,4 @@
+Model,Final Acc,Final Bal Acc,Final Macro F1,Final Weighted F1,Boot Macro F1,Boot F1 CI Lo,Boot F1 CI Hi,Note
+Random Forest (fixed),0.9395,0.6297,0.7089,0.9272,0.7089,0.7033,0.7142,"n_estimators=500, balanced, 23 aligned features"
+XGBoost (fixed),0.9445,0.9167,0.8613,0.9483,0.8614,0.857,0.8657,"n_estimators=500, max_depth=6, lr=0.05, 23 aligned features"
+BROKEN Baseline (NaN merge bug),0.489,0.071,,,,,,Original code — VPN test features all NaN due to column name mismatch

@@ -1,0 +1,20 @@
+                precision    recall  f1-score   support
+
+          Chat       0.97      0.53      0.69      3985
+         Cloud       1.00      0.66      0.79      5778
+ Collaborative       0.90      0.56      0.69      6632
+     ConnCheck       0.87      0.77      0.82       281
+      Database       0.86      0.98      0.92       327
+      Download       0.98      0.47      0.63       651
+         Email       0.93      0.81      0.87       391
+       Network       0.98      1.00      0.99     84448
+ SocialNetwork       1.00      0.67      0.80      3883
+SoftwareUpdate       1.00      0.29      0.45       737
+        System       0.52      0.01      0.02      1230
+   Unspecified       0.99      0.93      0.96      5680
+          VoIP       0.46      0.79      0.58      1601
+           Web       0.93      1.00      0.96    110690
+
+      accuracy                           0.95    226314
+     macro avg       0.89      0.67      0.73    226314
+  weighted avg       0.95      0.95      0.94    226314

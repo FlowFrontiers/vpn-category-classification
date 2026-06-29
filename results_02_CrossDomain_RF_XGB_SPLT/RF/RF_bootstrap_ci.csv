@@ -1,0 +1,5 @@
+metric,mean,CI_lower,CI_upper,std
+accuracy,0.9121,0.911,0.9133,0.0006
+bal_accuracy,0.4886,0.4825,0.4943,0.0031
+macro_f1,0.5047,0.4982,0.5108,0.0032
+weighted_f1,0.883,0.8815,0.8847,0.0008

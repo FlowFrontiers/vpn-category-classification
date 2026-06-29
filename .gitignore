@@ -1,0 +1,15 @@
+# Dataset — obtain via Data in Brief / Zenodo (10.5281/zenodo.18945858)
+dataset/
+
+# Trained-model binaries and large prediction dumps (regenerate by running the notebooks)
+*.pkl
+*.keras
+*.h5
+**/xgb_final_model.json
+*predictions.csv
+
+# Jupyter / OS cruft
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
